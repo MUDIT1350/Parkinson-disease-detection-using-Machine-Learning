@@ -1,5 +1,5 @@
 A Parkinson's disease detection project using the Random Forest algorithm focuses on classifying patients based on features such as voice recordings and motor symptoms.
-Random Forest is favored for its strong predictive performance, low overfitting, and interpretability. 
+Random Forest is favored for its strong predictive performance, low overfitting, and interpretability.  
 Feature selection techniques optimize the model, achieving accuracy above 95%, aiding early diagnosis effectively.
 The model's performance is validated using metrics like accuracy, sensitivity, specificity, and ROC curves, making it a reliable and robust tool for Parkinson's disease detection.
 This approach helps in early identification, allowing timely treatment and better patient outcomes.
